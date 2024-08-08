@@ -4,18 +4,18 @@ This repository contains the deliverables for the TP2543 Web Programming course.
 
 ### Contents
 
-Assignments: A collection of web programming assignments, including frontend and backend tasks.
-Projects: Larger projects demonstrating the integration of multiple web technologies.
-Documentation: Detailed reports and documentation for each deliverable, outlining the development process, tools used, and key features.
-Resources: Additional resources and references that were useful during the course.
+- Assignments: A collection of web programming assignments, including frontend and backend tasks.
+- Projects: Larger projects demonstrating the integration of multiple web technologies.
+- Documentation: Detailed reports and documentation for each deliverable, outlining the development process, tools used, and key features.
+- Resources: Additional resources and references that were useful during the course.
 
 ### Technologies Used
 
-#### HTML/CSS: For building the structure and styling of web pages.
-#### JavaScript: For adding interactivity and dynamic features to the web pages.
-#### Bootstrap: For front-end development to create responsive and mobile-first web pages.
-#### PHP/Codeigniter: Backend development using PHP, with some projects utilizing the Codeigniter framework.
-#### MySQL: Database management for storing and retrieving data.
+- HTML/CSS: For building the structure and styling of web pages.
+- JavaScript: For adding interactivity and dynamic features to the web pages.
+- Bootstrap: For front-end development to create responsive and mobile-first web pages.
+- PHP/Codeigniter: Backend development using PHP, with some projects utilizing the Codeigniter framework.
+- MySQL: Database management for storing and retrieving data.
 
 Link to the portfolio: https://lrgs.ftsm.ukm.my/users/a192570/
 
